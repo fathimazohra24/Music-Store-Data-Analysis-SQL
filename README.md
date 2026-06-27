@@ -40,11 +40,7 @@ The following are a few of the questions that are answered in the project (check
 
 # 🎵 Music Store Data Analysis using SQL
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![Data Analysis](https://img.shields.io/badge/Data-Analysis-blue?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Data Analysis](https://img.shields.io/badge/Data-Analysis-blue?style=for-the-badge) ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge) ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
 ## Tools
 - SQL
