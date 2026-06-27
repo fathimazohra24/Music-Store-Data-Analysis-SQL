@@ -16,6 +16,10 @@ The database represents a digital music store and consists of multiple related t
 
 The dataset structure is inspired by a publicly available SQL case study and was used for hands-on SQL analysis practice.
 
+## Database Schema
+
+![](MusicDatabaseScheme.png)
+
 ## Business Questions Answered
 - Who are the top-selling artists in the music store?
 - Which music genre is the most popular in each country?
