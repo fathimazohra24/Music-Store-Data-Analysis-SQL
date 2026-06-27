@@ -18,7 +18,7 @@ The dataset structure is inspired by a publicly available SQL case study and was
 
 ## Database Schema
 
-![](MusicDatabaseScheme.png)
+![](MusicDatabaseSchema.png)
 
 ## Business Questions Answered
 - Who are the top-selling artists in the music store?
