@@ -21,6 +21,8 @@ The dataset structure is inspired by a publicly available SQL case study and was
 ![](MusicDatabaseSchema.png)
 
 ## Business Questions Answered
+The following are a few of the questions that are answered in the project (check out Queries.sql file for the solutions):
+
 - Who are the top-selling artists in the music store?
 - Which music genre is the most popular in each country?
 - How much has each customer spent on different artists?
@@ -35,6 +37,14 @@ The dataset structure is inspired by a publicly available SQL case study and was
 - Common Table Expressions (CTEs)
 - Window Functions (RANK, PARTITION BY)
 - Sorting and filtering
+
+# 🎵 Music Store Data Analysis using SQL
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![Data Analysis](https://img.shields.io/badge/Data-Analysis-blue?style=for-the-badge)
 
 ## Tools
 - SQL
